@@ -1,1 +1,5 @@
+# custom redirects
+/vojdi-von https://www.paralelnapoliskosice.sk/newsletter
+
+# default redirect
 /* https://www.paralelnapoliskosice.sk/:splat 301!
