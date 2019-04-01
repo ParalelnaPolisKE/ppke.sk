@@ -1,5 +1,6 @@
 # custom redirects
 /vojdivon https://www.paralelnapoliskosice.sk/newsletter
+/roadmap https://trello.com/b/uMX9muz0/roadmap
 
 # default redirect
 /* https://www.paralelnapoliskosice.sk/:splat 301!
